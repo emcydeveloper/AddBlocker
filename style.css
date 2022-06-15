@@ -1,0 +1,49 @@
+.maincontainer {
+  display: flex;
+}
+
+#left-ad-page {
+  word-wrap: break-word;
+}
+#right-ad-page {
+  word-wrap: break-word;
+}
+
+#fullContainer {
+  background-color: beige;
+}
+p {
+  color: grey;
+}
+h1 {
+  color: darkslategrey;
+}
+
+#ad-div {
+  text-align: center;
+}
+
+.button {
+  border-radius: 4px;
+  background-color: #f4511e;
+  border: none;
+  color: #ffffff;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.button:hover {
+  padding-right: 25px;
+  background-color: greenyellow;
+  color: black;
+}
+
+img {
+  width: 350px;
+  height: 800px;
+}
